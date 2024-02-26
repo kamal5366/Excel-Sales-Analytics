@@ -11,6 +11,8 @@
     **3.** Find Most selling Products _[top 10 products](https://github.com/kamal5366/Excel-Sales-Analytics/blob/main/Top%2010%20products.pdf)
 
     **4.** Find Most and least selling products quality wise _[top and bottoms products (QTY)](https://github.com/kamal5366/Excel-Sales-Analytics/blob/main/Top%20and%20Bottoms%20Products-QTY.pdf)
+
+    **5.** New products introduced in year 2021_[New Products 2021](https://github.com/kamal5366/Excel-Sales-Analytics/blob/main/New%20products.pdf)
   
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
